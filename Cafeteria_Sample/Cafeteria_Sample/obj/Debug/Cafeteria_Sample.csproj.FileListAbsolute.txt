@@ -1,0 +1,100 @@
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.exe.config
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.exe
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.pdb
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csprojResolveAssemblyReference.cache
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Login.g.cs
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\MainWindow.g.cs
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\App.g.cs
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample_MarkupCompile.cache
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample_MarkupCompile.lref
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Login.baml
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\MainWindow.baml
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.g.resources
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.Properties.Resources.resources
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csproj.GenerateResource.Cache
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csproj.CoreCompileInputs.cache
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.exe
+C:\Users\DOLPHIN\source\repos\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.pdb
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.exe.config
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.exe
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.pdb
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csprojResolveAssemblyReference.cache
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Login.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\MainWindow.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\App.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample_MarkupCompile.cache
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample_MarkupCompile.lref
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Login.baml
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\MainWindow.baml
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.g.resources
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.Properties.Resources.resources
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csproj.GenerateResource.Cache
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csproj.CoreCompileInputs.cache
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.exe
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.pdb
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddStuffPage.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ManageStuffPage.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddStuffPage.baml
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ManageStuffPage.baml
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csprojResolveAssemblyReference.cache
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Login.g.cs
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\MainWindow.g.cs
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddStuffPage.g.cs
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ManageStuffPage.g.cs
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\App.g.cs
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample_MarkupCompile.cache
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample_MarkupCompile.lref
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.exe
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.pdb
+D:\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.exe.config
+D:\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.exe
+D:\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.pdb
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Login.baml
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\MainWindow.baml
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddStuffPage.baml
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ManageStuffPage.baml
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.g.resources
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.Properties.Resources.resources
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csproj.GenerateResource.Cache
+D:\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csproj.CoreCompileInputs.cache
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddInventoryPage.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddInventoryPage.baml
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\HomePage.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\HomePage.baml
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ContactPage.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ContactPage.baml
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AboutUsPage.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AboutUsPage.baml
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\SalesPage.g.cs
+C:\Users\DOLPHIN\Desktop\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\SalesPage.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.exe.config
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.exe
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\bin\Debug\Cafeteria_Sample.pdb
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csprojResolveAssemblyReference.cache
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Login.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\MainWindow.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AboutUsPage.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddInventoryPage.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddStuffPage.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ContactPage.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\HomePage.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ManageStuffPage.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\SalesPage.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\App.g.cs
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample_MarkupCompile.cache
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample_MarkupCompile.lref
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Login.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\MainWindow.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AboutUsPage.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddInventoryPage.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\AddStuffPage.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ContactPage.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\HomePage.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\ManageStuffPage.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\View\SalesPage.baml
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.g.resources
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.Properties.Resources.resources
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csproj.GenerateResource.Cache
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.csproj.CoreCompileInputs.cache
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.exe
+D:\Database Final Project\Cafeteria_Sample\Cafeteria_Sample\obj\Debug\Cafeteria_Sample.pdb
