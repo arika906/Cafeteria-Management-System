@@ -1,5 +1,5 @@
 # Cafeteria Management System
-The system to manage a cafeteria and to store the document in a suitable way. No difficulty in calculation. Auto Count the systems profit. 
+The system to manage a cafeteria and to store the document in a suitable way. No difficulty in calculation. Auto Count the systems profit. I made this for my second year university project under the course Software Development II.
 
 
 
@@ -92,6 +92,9 @@ Step:6.      Exit
 - About us button shows the information about the cafeteria like cell number, location, etc.
 - Contact button shows how to contact with the cafeteria for further information.
 
+### Flow Chart: 
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/FlowChart.png" height="450"/>
 
 ### Modules: 
 
@@ -105,21 +108,47 @@ Step:6.      Exit
 
 **User Table:**
 
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/5.PNG" height="200"/>
 
 **Inventory Table:**
 
 <img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/1.PNG" height="200"/>
 
+**Employee Table:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/2.PNG" height="200"/>
+
+**Sales table:** 
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/4.PNG" height="200"/>
+
+**Expense Table:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/3.PNG" height="200"/>
+
+### ER Diagram: 
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/ERDiagram.png" height="400"/>
+
+### Software Requirements: 
+
+- Operating System Window 10 
+- Front End Tool. NET Framework 4.5 Microsoft Visual Studio 2017 
+- Back End Tool Microsoft Sql Server 2012
+
+
+### Limitations: 
+
+- This system calculates the profit, but does not show in the system.
+- If a new food item is inserted, then there is no way to delete the food item.
+- This system has no online order term.
+- This system has no registration term.
+- This system is made for limited users.
 
 
 
 
-
-
-
-
-
-
+The “Cafeteria Management System" is to keep the information of stuff, inventory, etc. It is also to keep the daily sale price of products so that the calculation term gets easy. By this system we can insert, update and delete stuff, inventory and sales information easily and we can see their data in details. By this system, we can add a new item for sale in the inventory part. We can also check our total expenditures, sales and profit in the dashboard part. That’s how a user can manage the cafeteria.
 
 
 
