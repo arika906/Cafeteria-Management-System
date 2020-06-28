@@ -94,7 +94,7 @@ Step:6.      Exit
 
 ### Flow Chart: 
 
-<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/FlowChart.png" height="450"/>
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/FlowChart.png" height="700"/>
 
 ### Modules: 
 
@@ -128,7 +128,7 @@ Step:6.      Exit
 
 ### ER Diagram: 
 
-<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/ERDiagram.png" height="400"/>
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/ERDiagram.png" height="600"/>
 
 ### Software Requirements: 
 
