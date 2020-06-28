@@ -40,6 +40,88 @@ Step:6.      Exit
 <img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/LogIn.png" height="450"/>
 
 
+**Home Page:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/Home.png" height="450"/>
+
+
+**Dashboard:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/Dashboard.png" height="450"/>
+
+**Add Item Page:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/AddItem.png" height="450"/>
+
+**Food Entry Page:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/FoodEntry.png" height="450"/>
+
+**Manage Foods Page:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/ManageFoods.png" height="450"/>
+
+**Sales Page:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/Sales.png" height="450"/>
+
+**Add Stuff Page:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/AddStuff.png" height="450"/>
+
+**Manage Stuff Page:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/ManageStuff.png" height="450"/>
+
+**About Us Page:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/AboutUs.png" height="450"/>
+
+
+### Process Description:
+
+- Log in process: This process checks whether the user name or password is correct or incorrect to log in.
+- After that, there will be the main window. There are 10 buttons to update the information of food items and stuffs.
+- Home button shows the time table for opening and closing time.
+- Add item button inserts the new food item and its buy price and sale price and it is inserted to the data grid.
+- Food entry button updates the quantity of the food items of the data grid.
+- Manage food button updates the food related entries like buy price, sale price, food name and quantity and it is shown in the data grid.
+- Sales button works when the user sells an item from the food list and the quantity of the product is subtracted from the required quantity and the quantity is updated in the data grid.
+- Add stuff button inserts the new stuff information who will work for the cafeteria and the new stuff information is updated in the data grid.
+- Manage stuff button is divided into two parts. One part updates the listed employee information and we can update any type of field required for the stuffs. Another part deletes the stuff according to the stuffs id who do not want to work for the cafeteria.
+- About us button shows the information about the cafeteria like cell number, location, etc.
+- Contact button shows how to contact with the cafeteria for further information.
+
+
+### Modules: 
+
+- Log In
+- Stock Management
+- Sales Management
+- Stuff Management
+- Inventory Management
+
+### Screenshots of Data Table:
+
+**User Table:**
+
+
+**Inventory Table:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/1.PNG" height="200"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
