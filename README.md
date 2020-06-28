@@ -37,7 +37,7 @@ Step:6.      Exit
 
 **Log In:**
 
-<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/LogIn.png" height="500"/>
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/LogIn.png" height="400"/>
 
 
 
