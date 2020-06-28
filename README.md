@@ -35,7 +35,9 @@ Step:6.      Exit
 
 ### Screenshot of The App: 
 
-<img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Splash.png" height="600"/>
+**Log In:**
+
+<img src="https://github.com/arikaafrinboshra/Cafeteria-Management-System/blob/master/SD2/LogIn.png" height="600"/>
 
 
 
